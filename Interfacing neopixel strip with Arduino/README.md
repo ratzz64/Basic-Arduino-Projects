@@ -2,7 +2,7 @@
 
 This project demonstrates a simple color chase effect on a NeoPixel LED strip controlled by an Arduino Uno. It cycles through red, green, and blue colors, lighting up the LEDs one by one to create a dynamic chase animation.
 
-![Circuit Diagram](/mnt/data/Circuit.png)
+
 
 ## 🧰 Components Used
 
