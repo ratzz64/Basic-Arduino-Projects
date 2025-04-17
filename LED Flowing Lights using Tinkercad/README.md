@@ -1,4 +1,4 @@
-# 💡 Flowing LED Light Effect using Arduino (Tinkercad Simulation)
+# 💡 Flowing LED Light Effect using Arduino 
 
 This project simulates a **flowing LED light effect**, where multiple LEDs light up in sequence to create an animated pattern. It’s perfect for beginners learning about **digital output**, **timing**, and **visual effects** using an **Arduino Uno**.
 
